@@ -288,7 +288,7 @@ if (NOT CMAKE_CROSSCOMPILING)
     endif()
 endif()
 
-set(EXE_NAME "Chowdren")
+set(EXE_NAME "FP")
 add_executable(${EXE_NAME} WIN32 MACOSX_BUNDLE ${SRCS})
 
 include_directories(${OPENALSOFT_INCLUDE_DIR} ${SDL2_INCLUDE_DIR}
