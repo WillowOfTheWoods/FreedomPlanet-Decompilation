@@ -1,0 +1,269 @@
+Could not import all platforms
+(unknown chunk 8783)
+(unknown chunk 8781)
+filename: map1.map
+filename: map2.map
+filename: map3.map
+filename: map4.map
+filename: map5.map
+filename: map6.map
+filename: map7.map
+filename: map8.map
+filename: map9.map
+filename: map10.map
+filename: map11.map
+filename: map12.map
+filename: map13.map
+filename: map14.map
+filename: map15.map
+filename: map16.map
+filename: map17.map
+filename: map18.map
+Adding shader 9g
+Adding shader bgbloom
+Adding shader hardlight
+Adding shader perspective
+Adding shader coldirblur
+Adding shader monochrome
+Adding shader brightsatbg
+Adding shader underwater
+Adding shader tint
+Adding shader dodgeblur
+Adding shader gradient
+Adding shader invert
+Adding shader simplemask
+Adding shader texture
+Adding shader patternoverlay
+Adding shader zoomoffset
+Adding shader offsetstationary
+Adding shader pixelscale
+Adding shader bgblur
+Adding shader hue
+Adding shader pixeloutline
+Adding shader rotatesub
+Adding shader channelblur
+Adding shader lens
+Adding shader offset
+Adding shader multiply
+Adding shader subtract
+Adding shader colormixer
+Adding shader overlayalpha
+Adding shader grain
+Adding shader subpx
+movement Platform not implemented for Hazard_Shockwave
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\Layer.mfx
+could not load Layer
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\txtblt.mfx
+could not load txtblt
+Loading SaraSteamFP
+could not load menu 15 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\KcArray.mfx
+could not load KcArray
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\ultimatefullscreen.mfx
+could not load ultimatefullscreen
+Loading Joystick2
+could not load menu 15 SaraSteamFP actions
+could not load menu 7 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 15 SaraSteamFP actions
+could not load menu 18 SaraSteamFP actions
+could not load menu 17 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\KcBoxB.mfx
+could not load KcBoxB
+could not load menu 29 SaraSteamFP actions
+could not load menu 27 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 13 SaraSteamFP actions
+could not load menu 14 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\ctrlx.mfx
+could not load ctrlx
+could not load menu 29 SaraSteamFP actions
+could not load menu 29 SaraSteamFP actions
+Could not find loop 'load_array'
+(ignoring all future instances)
+could not load menu 15 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 15 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 29 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 27 SaraSteamFP actions
+could not load menu 15 SaraSteamFP actions
+could not load menu 6 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 15 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 6 SaraSteamFP actions
+leaving playfield for 3 not implemented
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\parser.mfx
+could not load parser
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(0)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(3)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(4)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(1)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(2)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(5)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(7)
+dynamic "on loop" not implemented: ((Active*)get_instance(playermovementvalues_245_instances, default_active_instance))->alterables->strings.get(6)
+Could not find loop 'Player01_Interruption_Movement'
+(ignoring all future instances)
+Could not find loop 'action.jump'
+(ignoring all future instances)
+Could not find loop 'pcard'
+(ignoring all future instances)
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\clickteam-movement-controller.mfx
+could not load clickteam-movement-controller
+action 'clickteam_movement_controller_74' not implemented ['OBJECT']
+action 'clickteam_movement_controller_56' not implemented ['EXPRESSION']
+expression not implemented: clickteam_movement_controller_56 None
+action 'clickteam_movement_controller_51' not implemented ['EXPRESSION', 'EXPRESSION']
+Could not find loop 'GUI_boss_shiftup'
+(ignoring all future instances)
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+Could not find loop 'time_record'
+(ignoring all future instances)
+Could not find loop 'GUI_boss_shiftdown'
+(ignoring all future instances)
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\ForEach.mfx
+could not load ForEach
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 1 SaraSteamFP actions
+could not load menu 0 SaraSteamFP actions
+could not load menu 2 SaraSteamFP actions
+could not load menu 3 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+could not load menu 15 SaraSteamFP actions
+could not load menu 11 SaraSteamFP actions
+[Error 126] The specified module could not be found C:\Users\Tyler\Documents\Clickteam Fusion 2.5\Extensions\kcini.mfx
+could not load kcini
+could not load menu 11 SaraSteamFP actions
+Could not find loop 'record.inputs'
+(ignoring all future instances)
+
+stats:
+ACTIONS
+[('clickteam_movement_controller_56', 4), ('clickteam_movement_controller_51', 3), ('clickteam_movement_controller_74', 3)]
+
+CONDITIONS
+[]
+
+EXPRESSIONS
+[('clickteam_movement_controller_56', 3)]
+D:\Program Files\Clickteam Fusion Developer 2.5\Data\Runtime\Chowdren\CMake\bin\cmake.exe .. -G MinGW Makefiles -DCMAKE_BUILD_TYPE=Release -DCMAKE_LIBRARY_PATH:PATH=D:/Program Files/Clickteam Fusion Developer 2.5/Data/Runtime/Chowdren/MinGW/lib -DCMAKE_EXE_LINKER_FLAGS:STRING=-static-libgcc -static-libstdc++ -static -Wno-dev
+
+CMake Error at D:/Program Files/Clickteam Fusion Developer 2.5/Data/Runtime/Chowdren/CMake/share/cmake-3.0/Modules/CMakeMinGWFindMake.cmake:22 (message):
+  sh.exe was found in your PATH, here:
+
+  C:/Users/Tyler/Documents/devkitPro/msys2/usr/bin/sh.exe
+
+  For MinGW make to work correctly sh.exe must NOT be in your path.
+
+  Run cmake from a shell that does not have sh.exe in your PATH.
+
+  If you want to use a UNIX shell, then use MSYS Makefiles.
+
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Error required internal CMake variable not set, cmake may be not be built correctly.
+Missing variable is:
+CMAKE_C_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may be not be built correctly.
+Missing variable is:
+CMAKE_C_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Tyler/Documents/Decompilations/Windows/FreedomPlanet/Freedom_Planet_Decompilation/FP 1.13.4 Chowdren/build/CMakeFiles/3.0.2/CMakeCCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may be not be built correctly.
+Missing variable is:
+CMAKE_CXX_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may be not be built correctly.
+Missing variable is:
+CMAKE_CXX_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Tyler/Documents/Decompilations/Windows/FreedomPlanet/Freedom_Planet_Decompilation/FP 1.13.4 Chowdren/build/CMakeFiles/3.0.2/CMakeCXXCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_C_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_C_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_CXX_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+Traceback (most recent call last):
+  File "run.py", line 30, in run_worker
+  File "C:\MMF2\Python\Chowdren\exporter\builder.py", line 73, in run
+  File "C:\MMF2\Python\Chowdren\exporter\builder.py", line 105, in create_pr

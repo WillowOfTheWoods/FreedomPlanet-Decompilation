@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+.vs_code/
+out/
+Output*/
+Assets.dat
+Assets2.dat
+CMakeLists2.txt
